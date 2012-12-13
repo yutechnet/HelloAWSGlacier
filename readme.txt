@@ -1,1 +1,0 @@
-This is "hello world" sample in Java to upload to AWS Glacier vault.
